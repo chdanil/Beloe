@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADMOB_AD_UNIT__BANNER_ID</key>
+	<string>ca-app-pub-2636701935410355/7642365303</string>
+	<key>CLIENT_ID</key>
+	<string>910893902219-69mbhlssdu6u98td5ggmm94f9qu0p2op.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.910893902219-69mbhlssdu6u98td5ggmm94f9qu0p2op</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGbiqENBErnY5BHQ2d3jmJTXU21F8smdY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>910893902219</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BeloeRadio.WhiteRadio</string>
+	<key>PROJECT_ID</key>
+	<string>beloe-radio-406f9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beloe-radio-406f9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:910893902219:ios:8841c265ffacc01e24a78e</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-2636701935410355~6388993389</string>
+</dict>
+</plist>
